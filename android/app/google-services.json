@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118836857324",
+    "project_id": "lifeasyotp",
+    "storage_bucket": "lifeasyotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118836857324:android:4e0c3d290ffdea5998d8c9",
+        "android_client_info": {
+          "package_name": "com.rohan.liveasyotpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118836857324-qe0ip0fsm2bq8nrf74h4fv3gsiuno9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKqzYEGP9a8Sbr1bEdsF3zH0U6kBni_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118836857324-qe0ip0fsm2bq8nrf74h4fv3gsiuno9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
