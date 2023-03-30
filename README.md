@@ -1,5 +1,5 @@
 # liveasyotpapp
 
-LiveEasy Authentication Project
+Liveasy Authentication Project
 
 
